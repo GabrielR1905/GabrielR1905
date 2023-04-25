@@ -3,11 +3,10 @@
 **GGmipana/GGmipana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![MasterHead](https://images.hdqwalls.com/download/women-pixel-art-4k-98-1366x768.jpg)](https://github.com/GGmipana)
+[![MasterHead]([https://images.hdqwalls.com/download/women-pixel-art-4k-98-1366x768.jpg](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif))](https://github.com/GGmipana)
 
 <h3>About me:</h3>
-<p>My real name is Gabriel. I'm a student with a dream 🌌 learn to code. I'm building some proyects that i've uploaded there here in GitHub.
-   Actually I'm learning JavaScript and in the future I'll learn React. 
+<p>My name is Gabriel. I'm a student with a dream 🌌... learn to code. I'm building some projects that I've uploaded there here on GitHub. I'm learning JavaScript and in the future, I'll learn React to become a Front End developer.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
