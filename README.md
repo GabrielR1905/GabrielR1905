@@ -5,6 +5,9 @@
 
 [![MasterHead](https://images.hdqwalls.com/download/women-pixel-art-4k-98-1366x768.jpg)](https://github.com/GGmipana)
 
+<h3>About me:</h3>
+<p>My real name is Gabriel. I'm a new  </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
