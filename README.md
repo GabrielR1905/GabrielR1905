@@ -6,7 +6,9 @@
 [![MasterHead](https://images.hdqwalls.com/download/women-pixel-art-4k-98-1366x768.jpg)](https://github.com/GGmipana)
 
 <h3>About me:</h3>
-<p>My real name is Gabriel. I'm a new  </p>
+<p>My real name is Gabriel. I'm a student with a dream 🌌... learn to code. I'm building some proyects that i've uploaded there here in GitHub.
+   Actually I'm learning JavaScript and in the future I'll learn React. 
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
