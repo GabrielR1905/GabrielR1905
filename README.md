@@ -7,11 +7,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?short_path=7975261" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p align="left"> <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.w3schools.com/css/)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?short_path=7975261" alt="javascript" width="40" height="40"/> </a> </p> <p align="left"> <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.w3schools.com/css/)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/> </a> </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GGmipana)](https://git.io/streak-stats)
+
+
 
 
