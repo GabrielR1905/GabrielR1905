@@ -7,7 +7,7 @@
 
 <h3 align="left">Hi! 👋:</h3>
 
-<p>My name is Gabriel. I'm a student with a dream 🌌... learn to code. I'm building some projects that I've uploaded there here on GitHub. I'm learning JavaScript and in the future, I'll learn React to become a Front End developer.
+<p>My name is Gabriel. I'm a student with a dream 🌌... Learn to code. I'm building some projects that I've uploaded there here on GitHub. I'm learning JavaScript and in the future, I'll learn React to become a Front End developer.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
