@@ -25,7 +25,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GGmipana)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielR1905)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
