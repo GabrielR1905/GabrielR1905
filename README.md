@@ -35,7 +35,7 @@ In addition to my studies, I've participated in events like the Intercollegiate 
 In my free time, I enjoy video games and basketball. I'm a patient, collaborative person who is open to listening to different opinions.
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielR1905)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielR1905)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
