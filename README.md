@@ -3,7 +3,7 @@
 **GGmipana/GGmipana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif"></img>
+<!--<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif"></img> -->
 
 <h3 align="left">Hello there! 👋:</h3>
 
