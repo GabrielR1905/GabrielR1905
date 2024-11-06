@@ -7,23 +7,33 @@
 
 <h3 align="left">Hello there! 👋:</h3>
 
-<p>My name is Gabriel. I'm a software student. I'll upload all my proyects here here on GitHub. I'm familiar with JavaScript, PHP, CSS, React, TailwindCSS and GIT. Actually I'm learning NextJS.
+<p>I'm Gabriel de Jesús Reynoso Reyes, a 16-year-old technology enthusiast residing in the Dominican Republic. I'm currently studying Web Development at Politécnico ITLA. 
+
+I consider myself a self-taught individual and enjoy learning new things every day. These are some of the areas I've explored:
+
+• Web Development 🌐:
+- Semantic HTML5, CSS3, and JavaScript
+- Frameworks and libraries such as Astro, TailwindCSS, and React
+
+• Programming Languages 👨‍💻: 
+- PHP and Apache servers
+- Version control with Git and GitHub
+
+• Databases 📊:
+- PostgreSQL and MySQL
+- Database management tools like DBeaver, PGadmin, and phpMyAdmin
+
+• Design 🎨:
+- Figma for web and app design 
+- Data analysis with PowerBI
+
+• Other Skills 🙋🏽‍♂️:
+- Physical prototyping with Arduino
+- Knowledge of UI/UX, Design Thinking, effective presentations
+
+In addition to my studies, I've participated in events like the Intercollegiate Datathon 2023 and the Hackathon "Desenlace 2024" in my country.
+In my free time, I enjoy video games and basketball. I'm a patient, collaborative person who is open to listening to different opinions.
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
-
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielR1905)](https://github.com/anuraghazra/github-readme-stats)
 
