@@ -5,7 +5,7 @@
 
 <!--<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif"></img> -->
 
-<h3 align="left">Hello there! 👋:</h3>
+<h2 align="left">Hello there! 👋:</h2>
 
 <p>I'm Gabriel de Jesús Reynoso Reyes, a 16-year-old technology enthusiast residing in the Dominican Republic. I'm currently studying Web Development at Politécnico ITLA. 
 
